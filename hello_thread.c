@@ -1,4 +1,5 @@
 #include <stdlib.h>
+#include <stdio.h>
 #include <pthread.h>
 
 void* helloThread(void* thread_value) {
